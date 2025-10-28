@@ -1,0 +1,34 @@
+# Unreal Engine standard ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.pdb
+*.idb
+
+# Build files
+Build/
+Script/
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Auto-generated project files
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
